@@ -14,7 +14,7 @@ These are notes I took for myself for FRC
     - https://www.javatpoint.com/java-naming-conventions 
 - Java learning website: https://www.codecademy.com/learn/learn-java
 
-## Software Video Tutorials
-
-https://www.youtube.com/watch?v=C5DqnIu6g8k
+## Software  Tutorials
+- [Team 2059 Hitchhiker's Guide Slidedeck ](https://docs.google.com/presentation/d/1peEl9_YWmm6-Bfxce6n9BMwLMSHrxx_nzk3MCOxAUjU/edit#slide=id.p)
+- https://www.youtube.com/watch?v=C5DqnIu6g8k
 
