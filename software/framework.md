@@ -1,5 +1,8 @@
 ![[framework-diagram.png]]
 
+[FRC Java Tutorial Video](https://www.youtube.com/watch?v=C5DqnIu6g8k)
+[Video tutorial docs](https://docs.google.com/document/d/1QAT5izZ8L-tu4IyC9r5SlIA6Q4qgKr19VbmO7vczAfE/edit?tab=t.0)
+
 How code runs:
 1. Connect computer via USB
 2. Automatically runs `main()` class
