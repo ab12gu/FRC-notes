@@ -28,3 +28,8 @@ There are three basic usage modes for the motors:
 Terminology:
 - TED: 2024 competition robot
 - BLDC-E: Brushless DC motors w/ encoder
+---
+Bag Motor specs:
+- https://www.cclmotors.com/public/assets/common/images/product/product/product-77/spec.pdf?1703915315
+- https://motors.vex.com/vexpro-motors/bag-motor
+- 
