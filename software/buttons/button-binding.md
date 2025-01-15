@@ -1,3 +1,5 @@
+[WPI description link](https://docs.wpilib.org/en/stable/docs/software/commandbased/binding-commands-to-triggers.html)
+
 1. Open file `RobotContainer.java`
 2. Class `RobotContainer()` calls class `configureButtonBindings()`
 3. Here, define you `trigger/button-command mappings`
