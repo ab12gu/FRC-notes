@@ -26,12 +26,12 @@ Tasks:
 	- If you wish to place the PDP in the middle of the bus (utilizing both pairs of PDP CAN terminals) move the jumper to the “OFF” position and place your own 120 terminating resistor at the end of your CAN bus chain.
 
 RoboRIO Connection:
-![[Pasted image 20250304161719.png]]
+![[roboRioCAN.png]]
 
 CTRE Power Distribution Panel (PDP)
 - power distribution module with 8 high-current (40A max)
 - 8 lower current (20A / 30A)
 - 1 20A protected channel (for [PCM](https://docs.wpilib.org/en/stable/docs/software/frc-glossary.html#term-PCM) and [VRM](https://docs.wpilib.org/en/stable/docs/software/frc-glossary.html#term-VRM))
 - 1 10A protected channel (for the roboRIO)
-![[Pasted image 20250304161936.png]]
+![[PDPCAN.png]]
 
