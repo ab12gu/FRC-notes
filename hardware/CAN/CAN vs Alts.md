@@ -1,0 +1,6 @@
+- Less electromagnetic interference allowing it to transmit signals faster and more accurately
+- Even if the Talon SRX loses power
+	- it just acts like a pass-through to the next one, keeping your loop
+- if one of the CAN bus wires gets disconnected or shorted or interrupted
+	- you will lose all your motors
+- 
