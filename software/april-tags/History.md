@@ -9,4 +9,4 @@ April tag
 - enables a system to localize features of the 6 degrees of freedom (DOF) from a single image
 - 6 DOF, 3 for translation and 3 for rotation
 
-<img src="images/orientation.png" width="400"/>
+<img src="/images/orientation.png" width="400"/>
