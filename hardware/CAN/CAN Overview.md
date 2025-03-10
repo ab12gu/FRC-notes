@@ -7,11 +7,7 @@ Tasks:
 	1. We cannot add a wrist until we can reliably operate the EE and Tofs. 
 	2. This is an absolute line in the sand. 
 	3. Because if we get this wrong it takes down the whole robot.
-
-
 # Notes
-
-
 
 [FRC CAN Device Specifications](https://docs.wpilib.org/en/stable/docs/software/can-devices/can-addressing.html#frc-can-device-specifications "Link to this heading")
 - 

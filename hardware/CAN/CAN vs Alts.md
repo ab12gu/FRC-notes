@@ -10,6 +10,13 @@ With the CANivore bus, our star-topology connected devices could not be detected
 - After changing them to loop topology (serially connected), the problem resolved and worked well
 	- because the bus is run at a higher speed
 
+First Robotics Rate 1Mbit/s
+- vs:
+	- Automotive: 500 kbps
+	- Industrial: 250 kbps
+- Benefit by having a higher data throughput by running a higher data bus speed
+	- Because it never gets near the 40 meter max for 1Mbit/s (vs others do)
+
 https://www.chiefdelphi.com/t/wire-canbus-for-frc-electronics/416817/4
 - WCP canbus lever nuts are good
 - ziptie the CAN wire to the power wires to prevent it being pulled out
